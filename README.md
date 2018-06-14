@@ -10,10 +10,7 @@ Desenvolvido para testar portas ao fazer deploy de serviçoes e verificar possí
  - É necessário que a lista de endereços IPs (IpFiles.txt) esteja no mesmo local que o script
 
 IpFiles Exemplo:
-1.1.1.1
-1.1.1.2
-2.2.2.1
-2.2.2.2
+1.1.1.1</br>1.1.1.2</br>2.2.2.1</br>2.2.2.2
 
 
 Sintaxe:
